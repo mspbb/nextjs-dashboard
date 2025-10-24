@@ -6,3 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 https://nextjs.org/learn/dashboard-app/adding-search-and-pagination
+https://nextjs.org/learn/dashboard-app/error-handling
